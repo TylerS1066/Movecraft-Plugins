@@ -13,6 +13,6 @@
 
 ## Airship Pirates plugins
 
-| AP-Turrets |
-| :---: |
-| ![Combat](https://github.com/APDevTeam/Ap-Turrets/actions/workflows/maven.yml/badge.svg) |
+| AP-Turrets | APAutoNPC |
+| :---: | :---: |
+| ![AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/actions/workflows/maven.yml/badge.svg) | ![APAutoNPC](https://github.com/APDevTeam/APAutoNPC/actions/workflows/maven.yml/badge.svg) |
