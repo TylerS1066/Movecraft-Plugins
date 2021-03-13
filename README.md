@@ -12,6 +12,6 @@
 
 ## Airship Pirates Plugins
 
-| AP-Turrets | APAutoNPC | Staff-Mode | Ultimate-FactionsChat |
-| :---: | :---: | :---: | :---: |
-| ![AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/actions/workflows/maven.yml/badge.svg) | ![APAutoNPC](https://github.com/APDevTeam/APAutoNPC/actions/workflows/maven.yml/badge.svg) | ![Staff-Mode](https://github.com/APDevTeam/Staff-Mode/actions/workflows/maven.yml/badge.svg) | ![Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat/actions/workflows/maven.yml/badge.svg) |
+| AllBarkNoBytes | APAutoDye | APAutoNPC | APPerms | AP-Turrets | Staff-Mode | Ultimate-FactionsChat |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Nothing | Nothing | ![APAutoNPC](https://github.com/APDevTeam/APAutoNPC/actions/workflows/maven.yml/badge.svg) | Nothing | ![AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/actions/workflows/maven.yml/badge.svg) | ![Staff-Mode](https://github.com/APDevTeam/Staff-Mode/actions/workflows/maven.yml/badge.svg) | ![Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat/actions/workflows/maven.yml/badge.svg) |
