@@ -15,3 +15,7 @@
 | AllBarkNoBytes | APAutoDye | APAutoNPC | APPerms | AP-Turrets | CustomWhitelist | Staff-Mode | Ultimate-FactionsChat | WGFactions |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Nothing | Nothing | ![APAutoNPC](https://github.com/APDevTeam/APAutoNPC/actions/workflows/maven.yml/badge.svg) | Nothing | ![AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/actions/workflows/maven.yml/badge.svg) | Nothing | ![Staff-Mode](https://github.com/APDevTeam/Staff-Mode/actions/workflows/maven.yml/badge.svg) | ![Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat/actions/workflows/maven.yml/badge.svg) | Nothing |
+
+### Other Plugins
+
+iFill, Cargo
