@@ -18,4 +18,4 @@
 
 ### Other Plugins
 
-iFill, Cargo
+iFill, Cargo, StructureBoxes
