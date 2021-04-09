@@ -18,4 +18,4 @@
 
 ### Other Plugins
 
-iFill, Cargo, StructureBoxes
+[iFill](https://github.com/Pocketkid2/Fill), [Cargo](https://github.com/eirikh1996/Cargo/), [StructureBoxes](https://github.com/eirikh1996/StructureBoxes)
