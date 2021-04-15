@@ -33,7 +33,7 @@
 | [AllBarkNoBytes](https://github.com/APDevTeam/AllBarkNoBytes) | [APAutoDye](https://github.com/APDevTeam/APAutoDye) | [APAutoNPC](https://github.com/APDevTeam/APAutoNPC) | [APPerms](https://github.com/APDevTeam/APDonorPerms) | [AP-Turrets](https://github.com/APDevTeam/Ap-Turrets) | [CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/) | [Staff-Mode](https://github.com/APDevTeam/Staff-Mode) | [Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat) | [WGFactions](https://github.com/APDevTeam/WGFactions) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Nothing | Nothing | ![APAutoNPC](https://github.com/APDevTeam/APAutoNPC/actions/workflows/maven.yml/badge.svg) | Nothing | ![AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/actions/workflows/maven.yml/badge.svg) | ![CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/actions/workflows/maven.yml/badge.svg) | ![Staff-Mode](https://github.com/APDevTeam/Staff-Mode/actions/workflows/maven.yml/badge.svg) | ![Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat/actions/workflows/maven.yml/badge.svg) | Nothing |
-| 1.10.2 | 1.10.2 | 1.10.2 | 1.10.2 | 1.12.2 | 1.10.2 | 1.10.2 | 1.12.2 | 1.12.2, 1.14.4 |
+| 1.10.2 | 1.10.2 | 1.10.2 | 1.10.2 | 1.12.2 | 1.10.2 | 1.10.2 | 1.12.2, 1.14.4 | 1.10.2 |
 
 ## Other Plugins
 
