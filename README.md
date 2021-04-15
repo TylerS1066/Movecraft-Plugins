@@ -18,7 +18,7 @@
 ## Movecraft
 | [Movecraft](https://github.com/APDevTeam/Movecraft) |
 | :---: |
-| ![Movecraft](https://github.com/APDevTeam/Movecraft/actions/workflows/maven.yml/badge.svg) |
+| ![Movecraft](https://github.com/APDevTeam/Movecraft/actions/workflows/maven.yml/badge.svg?branch=1.13+) |
 | 1.16.1/1.16.5 |
 
 ## Movecraft Addons
