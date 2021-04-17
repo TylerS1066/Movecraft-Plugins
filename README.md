@@ -1,19 +1,4 @@
-# Movecraft 7.x
-
-## Movecraft
-| [Movecraft](https://github.com/APDevTeam/Movecraft) |
-| :---: |
-| ![Movecraft](https://github.com/APDevTeam/Movecraft/actions/workflows/maven.yml/badge.svg?branch=master) |
-| 1.10.2 - 1.12.2 |
-
-## Movecraft Addons
-| [Movecraft-Combat](https://github.com/TylerS1066/Movecraft-Combat/tree/legacy/) | [Movecraft-Warfare](https://github.com/APDevTeam/Movecraft-Warfare/tree/legacy/) | [Movecraft-Repair](https://github.com/APDevTeam/Movecraft-Repair/tree/legacy/) | [Movecraft-WorldGuard](https://github.com/APDevTeam/Movecraft-WorldGuard/tree/1.12.2/) | [Movecraft-Towny](https://github.com/TylerS1066/Movecraft-Towny/tree/legacy/) | [Movecraft-Cannons](https://github.com/TylerS1066/Movecraft-Cannons/tree/legacy/) | [Beaming](https://github.com/APDevTeam/Beaming/tree/legacy/) |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Combat](https://github.com/TylerS1066/Movecraft-Combat/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![Warfare](https://github.com/APDevTeam/Movecraft-Warfare/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![Repair](https://github.com/APDevTeam/Movecraft-Repair/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![WorldGuard](https://github.com/APDevTeam/Movecraft-WorldGuard/actions/workflows/maven.yml/badge.svg?branch=1.12.2) | ![Towny](https://github.com/TylerS1066/Movecraft-Towny/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![Cannons](https://github.com/TylerS1066/Movecraft-Cannons/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![Beaming](https://github.com/APDevTeam/Beaming/actions/workflows/maven.yml/badge.svg?branch=legacy) |
-| 1.10.2 - 1.16.5 | 1.10.2 - 1.16.5 | 1.10.2 - 1.16.5 | 1.10.2, 1.12.2 | 1.10.2 - 1.13.2 | 1.10.2 - 1.16.5 | 1.10.2 - 1.16.5 |
-
-
-# Movecraft 8.x
+# Movecraft 8.x - 1.14+ ecosystem
 
 ## Movecraft
 | [Movecraft](https://github.com/APDevTeam/Movecraft) |
@@ -38,3 +23,18 @@
 ## Other Plugins
 
 [iFill](https://github.com/Pocketkid2/Fill), [Cargo](https://github.com/eirikh1996/Cargo/), [StructureBoxes](https://github.com/eirikh1996/StructureBoxes)
+
+
+# Movecraft 7.x - 1.10.2 to 1.12.2 Ecosystem
+
+## Movecraft
+| [Movecraft](https://github.com/APDevTeam/Movecraft) |
+| :---: |
+| ![Movecraft](https://github.com/APDevTeam/Movecraft/actions/workflows/maven.yml/badge.svg?branch=master) |
+| 1.10.2 - 1.12.2 |
+
+## Movecraft Addons
+| [Movecraft-Combat](https://github.com/TylerS1066/Movecraft-Combat/tree/legacy/) | [Movecraft-Warfare](https://github.com/APDevTeam/Movecraft-Warfare/tree/legacy/) | [Movecraft-Repair](https://github.com/APDevTeam/Movecraft-Repair/tree/legacy/) | [Movecraft-WorldGuard](https://github.com/APDevTeam/Movecraft-WorldGuard/tree/1.12.2/) | [Movecraft-Towny](https://github.com/TylerS1066/Movecraft-Towny/tree/legacy/) | [Movecraft-Cannons](https://github.com/TylerS1066/Movecraft-Cannons/tree/legacy/) | [Beaming](https://github.com/APDevTeam/Beaming/tree/legacy/) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Combat](https://github.com/TylerS1066/Movecraft-Combat/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![Warfare](https://github.com/APDevTeam/Movecraft-Warfare/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![Repair](https://github.com/APDevTeam/Movecraft-Repair/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![WorldGuard](https://github.com/APDevTeam/Movecraft-WorldGuard/actions/workflows/maven.yml/badge.svg?branch=1.12.2) | ![Towny](https://github.com/TylerS1066/Movecraft-Towny/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![Cannons](https://github.com/TylerS1066/Movecraft-Cannons/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![Beaming](https://github.com/APDevTeam/Beaming/actions/workflows/maven.yml/badge.svg?branch=legacy) |
+| 1.10.2 - 1.16.5 | 1.10.2 - 1.16.5 | 1.10.2 - 1.16.5 | 1.10.2, 1.12.2 | 1.10.2 - 1.13.2 | 1.10.2 - 1.16.5 | 1.10.2 - 1.16.5 |
