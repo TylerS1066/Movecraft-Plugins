@@ -28,7 +28,7 @@
 | [AP-Turrets](https://github.com/APDevTeam/Ap-Turrets) | [CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/) | [iFill](https://github.com/Pocketkid2/Fill) | [Cargo](https://github.com/eirikh1996/Cargo/) | [StructureBoxes](https://github.com/eirikh1996/StructureBoxes)
 | :---: | :---: | :---: | :---: | :---: |
 | ![AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/actions/workflows/maven.yml/badge.svg) | ![CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/actions/workflows/maven.yml/badge.svg) | Nothing | Nothing | Nothing |
-| 1.12.2 | 1.12.2 | ??? | ??? | ??? |
+| 1.12.2, 1.14.4 - 1.16.5 | 1.12.2 | ??? | ??? | ??? |
 
 
 
