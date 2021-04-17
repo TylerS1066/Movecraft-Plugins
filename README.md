@@ -12,6 +12,7 @@
 | 1.14.4 - 1.16.5 | 1.14.4 - 1.16.5 | 1.14.4 - 1.16.5 |  1.14.4 - 1.16.5 | 1.14.4 - 1.16.5 | 1.14.4 - 1.16.5 | 1.14.4 - 1.16.5 |
 
 
+
 # Airship Pirates Plugins
 
 | [AllBarkNoBytes](https://github.com/APDevTeam/AllBarkNoBytes) | [APAutoDye](https://github.com/APDevTeam/APAutoDye) | [APAutoNPC](https://github.com/APDevTeam/APAutoNPC) | [APPerms](https://github.com/APDevTeam/APDonorPerms)  | [Staff-Mode](https://github.com/APDevTeam/Staff-Mode) | [Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat) | [WGFactions](https://github.com/APDevTeam/WGFactions) |
@@ -23,9 +24,6 @@
 | :---: | :---: | :---: | :---: | :---: |
 | ![AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/actions/workflows/maven.yml/badge.svg) | ![CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/actions/workflows/maven.yml/badge.svg) | Nothing | Nothing | Nothing |
 | 1.12.2 | 1.12.2 | ??? | ??? | ??? |
-
-### Other Plugins
-
 
 
 
