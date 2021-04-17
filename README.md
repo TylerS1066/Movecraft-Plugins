@@ -19,14 +19,14 @@
 | Nothing | Nothing | ![APAutoNPC](https://github.com/APDevTeam/APAutoNPC/actions/workflows/maven.yml/badge.svg) | Nothing | ![Staff-Mode](https://github.com/APDevTeam/Staff-Mode/actions/workflows/maven.yml/badge.svg) | ![Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat/actions/workflows/maven.yml/badge.svg) | Nothing |
 | 1.10.2 | 1.10.2 | 1.10.2 | 1.10.2 | 1.10.2 | 1.12.2, 1.14.4 | 1.10.2 |
 
-| [AP-Turrets](https://github.com/APDevTeam/Ap-Turrets) | [CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/) |
-| :---: | :---: |
+| [AP-Turrets](https://github.com/APDevTeam/Ap-Turrets) | [CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/) | [iFill](https://github.com/Pocketkid2/Fill) | [Cargo](https://github.com/eirikh1996/Cargo/) | [StructureBoxes](https://github.com/eirikh1996/StructureBoxes)
+| :---: | :---: | :---: | :---: | :---: |
 | ![AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/actions/workflows/maven.yml/badge.svg) | ![CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/actions/workflows/maven.yml/badge.svg) |
-| 1.12.2 | 1.12.2 |
+| 1.12.2 | 1.12.2 | :---: | :---: | :---: |
 
 ### Other Plugins
 
-[iFill](https://github.com/Pocketkid2/Fill), [Cargo](https://github.com/eirikh1996/Cargo/), [StructureBoxes](https://github.com/eirikh1996/StructureBoxes)
+
 
 
 # Movecraft 7.x - 1.10.2 to 1.12.2 Ecosystem
