@@ -15,20 +15,20 @@
 
 # Airship Pirates Plugins
 
-| [AllBarkNoBytes](https://github.com/APDevTeam/AllBarkNoBytes) | [APAutoDye](https://github.com/APDevTeam/APAutoDye) | [APAutoNPC](https://github.com/APDevTeam/APAutoNPC) | [APPerms](https://github.com/APDevTeam/APDonorPerms) |
+| [AP-Turrets](https://github.com/APDevTeam/Ap-Turrets) | [APAutoDye](https://github.com/APDevTeam/APAutoDye) | [APAutoNPC](https://github.com/APDevTeam/APAutoNPC) | [APPerms](https://github.com/APDevTeam/APDonorPerms) |
 | :---: | :---: | :---: | :---: |
-| Nothing | Nothing | ![APAutoNPC](https://github.com/APDevTeam/APAutoNPC/actions/workflows/maven.yml/badge.svg) | Nothing |
-| 1.10.2 | 1.10.2 | 1.12.2, 1.14.4 - 1.16.5 | 1.10.2 |
+| ![AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/actions/workflows/maven.yml/badge.svg) | Nothing | Nothing | ![APAutoNPC](https://github.com/APDevTeam/APAutoNPC/actions/workflows/maven.yml/badge.svg) | Nothing |
+| 1.12.2, 1.14.4 - 1.16.5 | 1.10.2 | 1.12.2, 1.14.4 - 1.16.5 | 1.10.2 |
 
 | [Staff-Mode](https://github.com/APDevTeam/Staff-Mode) | [Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat) | [WGFactions](https://github.com/APDevTeam/WGFactions) | [WGBlockFlags](https://github.com/TylerS1066/WGBlockFlags/) |
 | :---: | :---: | :---: | :---: |
 | ![Staff-Mode](https://github.com/APDevTeam/Staff-Mode/actions/workflows/maven.yml/badge.svg) | ![Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat/actions/workflows/maven.yml/badge.svg) | Nothing | ![WGBlockFlags](https://github.com/TylerS1066/WGBlockFlags/actions/workflows/maven.yml/badge.svg) |
 | 1.10.2 | 1.12.2, 1.14.4 - 1.16.5 | 1.10.2 | 1.12.2, 1.14.4 - 1.16.5 |
 
-| [AP-Turrets](https://github.com/APDevTeam/Ap-Turrets) | [CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/) | [iFill](https://github.com/Pocketkid2/Fill) | [Cargo](https://github.com/eirikh1996/Cargo/) | [StructureBoxes](https://github.com/eirikh1996/StructureBoxes)
-| :---: | :---: | :---: | :---: | :---: |
-| ![AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/actions/workflows/maven.yml/badge.svg) | ![CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/actions/workflows/maven.yml/badge.svg) | Nothing | Nothing | Nothing |
-| 1.12.2, 1.14.4 - 1.16.5 | 1.12.2 | ??? | ??? | ??? |
+| [CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/) | [iFill](https://github.com/Pocketkid2/Fill) | [Cargo](https://github.com/eirikh1996/Cargo/) | [StructureBoxes](https://github.com/eirikh1996/StructureBoxes)
+| :---: | :---: | :---: | :---: |
+| ![CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/actions/workflows/maven.yml/badge.svg) | Nothing | Nothing | Nothing |
+| 1.12.2 | ??? | ??? | ??? |
 
 
 
