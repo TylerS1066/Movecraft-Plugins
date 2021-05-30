@@ -1,5 +1,6 @@
-## Movecraft 8.x - 1.14+ ecosystem
+# Modern Ecosystem
 
+### Movecraft 8.x - 1.14+ ecosystem
 | [Movecraft](https://github.com/APDevTeam/Movecraft) |
 | :---: |
 | ![Movecraft](https://github.com/APDevTeam/Movecraft/actions/workflows/maven.yml/badge.svg?branch=1.13%2B) |
@@ -14,7 +15,6 @@
 
 
 ### Airship Pirates Plugins
-
 | [AP-Turrets](https://github.com/APDevTeam/Ap-Turrets) | [APAutoNPC](https://github.com/APDevTeam/APAutoNPC) | [APPerms](https://github.com/APDevTeam/APDonorPerms) |
 | :---: | :---: | :---: |
 | ![AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/actions/workflows/maven.yml/badge.svg?branch=main) | ![APAutoNPC](https://github.com/APDevTeam/APAutoNPC/actions/workflows/maven.yml/badge.svg?branch=main) | Nothing |
@@ -23,7 +23,7 @@
 | [Staff-Mode](https://github.com/APDevTeam/Staff-Mode) | [Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat) | [WGFactions](https://github.com/APDevTeam/WGFactions) | [WGBlockFlags](https://github.com/TylerS1066/WGBlockFlags/) |
 | :---: | :---: | :---: | :---: |
 | ![Staff-Mode](https://github.com/APDevTeam/Staff-Mode/actions/workflows/maven.yml/badge.svg) | ![Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat/actions/workflows/maven.yml/badge.svg?branch=main) | Nothing | ![WGBlockFlags](https://github.com/TylerS1066/WGBlockFlags/actions/workflows/maven.yml/badge.svg?branch=main) |
-| *1.10.2* | 1.14.4 - 1.16.5 | *1.10.2* | 1.12.2, 1.14.4 - 1.16.5 |
+| *1.10.2* | 1.14.4 - 1.16.5 | *1.10.2* | 1.14.4 - 1.16.5 |
 
 | [CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/) | [iFill](https://github.com/APDevTeam/iFill) | [Cargo](https://github.com/APDevTeam/APCargoMerchant) | [StructureBoxes](https://github.com/APDevTeam/StructureBoxes)
 | :---: | :---: | :---: | :---: |
@@ -33,10 +33,7 @@
 
 
 # Legacy Ecosystem
-
-
-## Movecraft 7.x - 1.10.2 to 1.12.2 Ecosystem
-
+### Movecraft 7.x - 1.10.2 to 1.12.2 Ecosystem
 | [Movecraft](https://github.com/APDevTeam/Movecraft) |
 | :---: |
 | ![Movecraft](https://github.com/APDevTeam/Movecraft/actions/workflows/maven.yml/badge.svg?branch=master) |
@@ -52,7 +49,6 @@
 
 
 ### Airship Pirates Plugins
-
 | [AP-Turrets](https://github.com/APDevTeam/Ap-Turrets) | [APAutoDye](https://github.com/APDevTeam/APAutoDye) | [APAutoNPC](https://github.com/APDevTeam/APAutoNPC) | [APPerms](https://github.com/APDevTeam/APDonorPerms) |
 | :---: | :---: | :---: | :---: |
 | ![AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/actions/workflows/maven.yml/badge.svg) | Nothing | ![APAutoNPC](https://github.com/APDevTeam/APAutoNPC/actions/workflows/maven.yml/badge.svg) | Nothing |
