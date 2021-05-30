@@ -49,14 +49,14 @@
 
 
 ### Airship Pirates Plugins
-| [AP-Turrets](https://github.com/APDevTeam/Ap-Turrets) | [APAutoDye](https://github.com/APDevTeam/APAutoDye) | [APAutoNPC](https://github.com/APDevTeam/APAutoNPC) | [APPerms](https://github.com/APDevTeam/APDonorPerms) |
+| [AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/tree/legacy) | [APAutoDye](https://github.com/APDevTeam/APAutoDye) | [APAutoNPC](https://github.com/APDevTeam/APAutoNPC/tree/legacy) | [APPerms](https://github.com/APDevTeam/APDonorPerms) |
 | :---: | :---: | :---: | :---: |
 | ![AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/actions/workflows/maven.yml/badge.svg) | Nothing | ![APAutoNPC](https://github.com/APDevTeam/APAutoNPC/actions/workflows/maven.yml/badge.svg) | Nothing |
 | 1.12.2 | *1.10.2* | 1.12.2 | *1.10.2* |
 
-| [Staff-Mode](https://github.com/APDevTeam/Staff-Mode) | [Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat) | [WGFactions](https://github.com/APDevTeam/WGFactions) | [WGBlockFlags](https://github.com/TylerS1066/WGBlockFlags/) |
+| [Staff-Mode](https://github.com/APDevTeam/Staff-Mode) | [Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat/tree/legacy) | [WGFactions](https://github.com/APDevTeam/WGFactions) | [WGBlockFlags](https://github.com/TylerS1066/WGBlockFlags/tree/legacy) |
 | :---: | :---: | :---: | :---: |
-| ![Staff-Mode](https://github.com/APDevTeam/Staff-Mode/actions/workflows/maven.yml/badge.svg) | ![Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat/actions/workflows/maven.yml/badge.svg) | Nothing | ![WGBlockFlags](https://github.com/TylerS1066/WGBlockFlags/actions/workflows/maven.yml/badge.svg) |
+| ![Staff-Mode](https://github.com/APDevTeam/Staff-Mode/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat/actions/workflows/maven.yml/badge.svg?branch=legacy) | Nothing | ![WGBlockFlags](https://github.com/TylerS1066/WGBlockFlags/actions/workflows/maven.yml/badge.svg?branch=legacy) |
 | *1.10.2* | 1.12.2 | 1.10.2 | 1.12.2 |
 
 | [CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/) |
