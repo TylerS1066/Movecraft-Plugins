@@ -54,10 +54,10 @@
 | ![AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/actions/workflows/maven.yml/badge.svg) | ![APAuotDye](https://github.com/APDevTeam/APAutoDye/actions/workflows/maven.yml/badge.svg) | ![APAutoNPC](https://github.com/APDevTeam/APAutoNPC/actions/workflows/maven.yml/badge.svg) | Nothing |
 | 1.12.2 | 1.12.2 | 1.12.2 | *1.10.2* |
 
-| [Staff-Mode](https://github.com/APDevTeam/Staff-Mode/tree/legacy) | [Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat/tree/legacy) | [WGFactions](https://github.com/APDevTeam/WGFactions) | [WGBlockFlags](https://github.com/TylerS1066/WGBlockFlags/tree/legacy) |
+| [Staff-Mode](https://github.com/APDevTeam/Staff-Mode/tree/legacy) | [Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat/tree/legacy) | [WGFactions](https://github.com/APDevTeam/WGFactions/tree/legacy) | [WGBlockFlags](https://github.com/TylerS1066/WGBlockFlags/tree/legacy) |
 | :---: | :---: | :---: | :---: |
-| ![Staff-Mode](https://github.com/APDevTeam/Staff-Mode/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat/actions/workflows/maven.yml/badge.svg?branch=legacy) | Nothing | ![WGBlockFlags](https://github.com/TylerS1066/WGBlockFlags/actions/workflows/maven.yml/badge.svg?branch=legacy) |
-| 1.12.2 | 1.12.2 | *1.10.2* | 1.12.2 |
+| ![Staff-Mode](https://github.com/APDevTeam/Staff-Mode/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![WGFactions]((https://github.com/APDevTeam/WGFactions/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![WGBlockFlags](https://github.com/TylerS1066/WGBlockFlags/actions/workflows/maven.yml/badge.svg?branch=legacy) |
+| 1.12.2 | 1.12.2 | 1.12.2 | 1.12.2 |
 
 | [CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/) | [Deadbolt-Reloaded](https://github.com/TylerS1066/Deadbolt-Reloaded) |
 | :---: | :---: |
