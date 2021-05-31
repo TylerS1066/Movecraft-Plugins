@@ -22,8 +22,8 @@
 
 | [Staff-Mode](https://github.com/APDevTeam/Staff-Mode) | [Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat) | [WGFactions](https://github.com/APDevTeam/WGFactions) | [WGBlockFlags](https://github.com/TylerS1066/WGBlockFlags/) |
 | :---: | :---: | :---: | :---: |
-| ![Staff-Mode](https://github.com/APDevTeam/Staff-Mode/actions/workflows/maven.yml/badge.svg?branch=main) | ![Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat/actions/workflows/maven.yml/badge.svg?branch=main) | Nothing | ![WGBlockFlags](https://github.com/TylerS1066/WGBlockFlags/actions/workflows/maven.yml/badge.svg?branch=main) |
-| 1.14.4 - 1.16.5 | 1.14.4 - 1.16.5 | *1.10.2* | 1.14.4 - 1.16.5 |
+| ![Staff-Mode](https://github.com/APDevTeam/Staff-Mode/actions/workflows/maven.yml/badge.svg?branch=main) | ![Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat/actions/workflows/maven.yml/badge.svg?branch=main) | ![WGFactions](https://github.com/APDevTeam/WGFactions/actions/workflows/maven.yml/badge.svg?branch=main) | ![WGBlockFlags](https://github.com/TylerS1066/WGBlockFlags/actions/workflows/maven.yml/badge.svg?branch=main) |
+| 1.14.4 - 1.16.5 | 1.14.4 - 1.16.5 | 1.14.4 - 1.16.5 | 1.14.4 - 1.16.5 |
 
 | [CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/) | [iFill](https://github.com/APDevTeam/iFill) | [Cargo](https://github.com/APDevTeam/APCargoMerchant) | [StructureBoxes](https://github.com/APDevTeam/StructureBoxes) |
 | :---: | :---: | :---: | :---: |
