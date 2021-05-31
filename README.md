@@ -61,5 +61,5 @@
 
 | [CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/) | [Deadbolt-Reloaded](https://github.com/TylerS1066/Deadbolt-Reloaded) |
 | :---: | :---: |
-| ![CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/actions/workflows/maven.yml/badge.svg) | ![Deadbolt-Reloaded](https://github.com/TylerS1066/Deadbolt-Reloaded/actions/workflows/maven.yml/badge.svg?branch=legacy) |
+| ![CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![Deadbolt-Reloaded](https://github.com/TylerS1066/Deadbolt-Reloaded/actions/workflows/maven.yml/badge.svg) |
 | 1.12.2 | 1.12.2 |
