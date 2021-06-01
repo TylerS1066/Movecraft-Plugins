@@ -51,7 +51,7 @@
 ### Airship Pirates Plugins
 | [AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/tree/legacy) | [APAutoDye](https://github.com/APDevTeam/APAutoDye) | [APAutoNPC](https://github.com/APDevTeam/APAutoNPC/tree/legacy) | [APPerms](https://github.com/APDevTeam/APDonorPerms) |
 | :---: | :---: | :---: | :---: |
-| ![AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/actions/workflows/maven.yml/badge.svg) | ![APAuotDye](https://github.com/APDevTeam/APAutoDye/actions/workflows/maven.yml/badge.svg) | ![APAutoNPC](https://github.com/APDevTeam/APAutoNPC/actions/workflows/maven.yml/badge.svg) | Nothing |
+| ![AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![APAuotDye](https://github.com/APDevTeam/APAutoDye/actions/workflows/maven.yml/badge.svg) | ![APAutoNPC](https://github.com/APDevTeam/APAutoNPC/actions/workflows/maven.yml/badge.svg?branch=legacy) | Nothing |
 | 1.12.2 | 1.12.2 | 1.12.2 | *1.10.2* |
 
 | [Staff-Mode](https://github.com/APDevTeam/Staff-Mode/tree/legacy) | [Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat/tree/legacy) | [WGFactions](https://github.com/APDevTeam/WGFactions/tree/legacy) | [WGBlockFlags](https://github.com/TylerS1066/WGBlockFlags/tree/legacy) |
