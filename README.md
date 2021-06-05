@@ -17,8 +17,8 @@
 ### Airship Pirates Plugins
 | [AP-Turrets](https://github.com/APDevTeam/Ap-Turrets) | [APAutoNPC](https://github.com/APDevTeam/APAutoNPC) | [APPerms](https://github.com/APDevTeam/APDonorPerms) | [Deadbolt-Reloaded](https://github.com/TylerS1066/Deadbolt-Reloaded) |
 | :---: | :---: | :---: | :---: |
-| ![AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/actions/workflows/maven.yml/badge.svg?branch=main) | ![APAutoNPC](https://github.com/APDevTeam/APAutoNPC/actions/workflows/maven.yml/badge.svg?branch=main) | ![APPerms](https://github.com/APDevTeam/APDonorPerms/actions/workflows/maven.yml/badge.svg?branch=main) | ![Deadbolt-Reloaded](https://github.com/TylerS1066/Deadbolt-Reloaded/actions/workflows/maven.yml/badge.svg) |
-| 1.14.4 - 1.16.5 | 1.14.4 - 1.16.5 | 1.14.4 - 1.16.5 | *1.12.2* |
+| ![AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/actions/workflows/maven.yml/badge.svg?branch=main) | ![APAutoNPC](https://github.com/APDevTeam/APAutoNPC/actions/workflows/maven.yml/badge.svg?branch=main) | ![APPerms](https://github.com/APDevTeam/APDonorPerms/actions/workflows/maven.yml/badge.svg?branch=main) | ![Deadbolt-Reloaded](https://github.com/TylerS1066/Deadbolt-Reloaded/actions/workflows/maven.yml/badge.svg?branch=main) |
+| 1.14.4 - 1.16.5 | 1.14.4 - 1.16.5 | 1.14.4 - 1.16.5 | 1.14.4 - 1.16.5 |
 
 | [Staff-Mode](https://github.com/APDevTeam/Staff-Mode) | [Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat) | [WGFactions](https://github.com/APDevTeam/WGFactions) | [WGBlockFlags](https://github.com/TylerS1066/WGBlockFlags/) |
 | :---: | :---: | :---: | :---: |
