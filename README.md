@@ -27,8 +27,8 @@
 
 | [CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/) | [iFill](https://github.com/APDevTeam/iFill) | [Cargo](https://github.com/APDevTeam/APCargoMerchant) | [StructureBoxes](https://github.com/APDevTeam/StructureBoxes) |
 | :---: | :---: | :---: | :---: |
-| ![CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/actions/workflows/maven.yml/badge.svg?branch=main) | ![iFill](https://github.com/APDevTeam/iFill/actions/workflows/maven.yml/badge.svg?branch=main) | ![Cargo](https://github.com/APDevTeam/APCargoMerchant/actions/workflows/maven.yml/badge.svg?branch=main) | Nothing |
-| 1.14.4 - 1.17.1 | 1.14.4 - 1.17.1 | 1.14.4 - 1.17.1 | *???* |
+| ![CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/actions/workflows/maven.yml/badge.svg?branch=main) | ![iFill](https://github.com/APDevTeam/iFill/actions/workflows/maven.yml/badge.svg?branch=main) | ![Cargo](https://github.com/APDevTeam/APCargoMerchant/actions/workflows/maven.yml/badge.svg?branch=main) | ![StructureBoxes](https://github.com/APDevTeam/StructureBoxes/actions/workflows/maven.yml/badge.svg?branch=main |
+| 1.14.4 - 1.17.1 | 1.14.4 - 1.17.1 | 1.14.4 - 1.17.1 | 1.14.4 - 1.17.1 |
 
 
 
