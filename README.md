@@ -15,27 +15,19 @@
 
 
 ### Airship Pirates Plugins
-| [AP-Turrets](https://github.com/APDevTeam/Ap-Turrets) | [APAutoNPC](https://github.com/APDevTeam/APAutoNPC) | [APPerms](https://github.com/APDevTeam/APDonorPerms) | [Deadbolt-Reloaded](https://github.com/TylerS1066/Deadbolt-Reloaded) |
-| :---: | :---: | :---: | :---: |
-| ![AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/actions/workflows/maven.yml/badge.svg?branch=main) | ![APAutoNPC](https://github.com/APDevTeam/APAutoNPC/actions/workflows/maven.yml/badge.svg?branch=main) | ![APPerms](https://github.com/APDevTeam/APDonorPerms/actions/workflows/maven.yml/badge.svg?branch=main) | ![Deadbolt-Reloaded](https://github.com/TylerS1066/Deadbolt-Reloaded/actions/workflows/maven.yml/badge.svg?branch=main) |
-| 1.14.4 - 1.17.1 | 1.14.4 - 1.17.1 | 1.14.4 - 1.17.1 | 1.14.4 - 1.17.1 |
-
-| [Staff-Mode](https://github.com/APDevTeam/Staff-Mode) | [Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat) | [WGFactions](https://github.com/APDevTeam/WGFactions) | [WGBlockFlags](https://github.com/TylerS1066/WGBlockFlags/) |
-| :---: | :---: | :---: | :---: |
-| ![Staff-Mode](https://github.com/APDevTeam/Staff-Mode/actions/workflows/maven.yml/badge.svg?branch=main) | ![Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat/actions/workflows/maven.yml/badge.svg?branch=main) | ![WGFactions](https://github.com/APDevTeam/WGFactions/actions/workflows/maven.yml/badge.svg?branch=main) | ![WGBlockFlags](https://github.com/TylerS1066/WGBlockFlags/actions/workflows/maven.yml/badge.svg?branch=main) |
-| 1.14.4 - 1.17.1 | 1.14.4 - 1.17.1 | 1.14.4 - 1.17.1 | 1.14.4 - 1.17.1 |
-
-| [CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/) | [iFill](https://github.com/APDevTeam/iFill) | [Cargo](https://github.com/APDevTeam/APCargoMerchant) | [StructureBoxes](https://github.com/APDevTeam/StructureBoxes) |
-| :---: | :---: | :---: | :---: |
-| ![CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/actions/workflows/maven.yml/badge.svg?branch=main) | ![iFill](https://github.com/APDevTeam/iFill/actions/workflows/maven.yml/badge.svg?branch=main) | ![Cargo](https://github.com/APDevTeam/APCargoMerchant/actions/workflows/maven.yml/badge.svg?branch=main) | ![StructureBoxes](https://github.com/APDevTeam/StructureBoxes/actions/workflows/maven.yml/badge.svg?branch=main) |
-| 1.14.4 - 1.17.1 | 1.14.4 - 1.17.1 | 1.14.4 - 1.17.1 | 1.14.4 - 1.17.1 |
-
-
-
+|  |  |  |  |  |  |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [AP-Turrets](https://github.com/APDevTeam/Ap-Turrets) | [APAutoNPC](https://github.com/APDevTeam/APAutoNPC) | [APPerms](https://github.com/APDevTeam/APDonorPerms) | [Deadbolt-Reloaded](https://github.com/TylerS1066/Deadbolt-Reloaded) | [Staff-Mode](https://github.com/APDevTeam/Staff-Mode) | [Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat) |
+| ![AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/actions/workflows/maven.yml/badge.svg?branch=main) | ![APAutoNPC](https://github.com/APDevTeam/APAutoNPC/actions/workflows/maven.yml/badge.svg?branch=main) | ![APPerms](https://github.com/APDevTeam/APDonorPerms/actions/workflows/maven.yml/badge.svg?branch=main) | ![Deadbolt-Reloaded](https://github.com/TylerS1066/Deadbolt-Reloaded/actions/workflows/maven.yml/badge.svg?branch=main) | ![Staff-Mode](https://github.com/APDevTeam/Staff-Mode/actions/workflows/maven.yml/badge.svg?branch=main) | ![Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat/actions/workflows/maven.yml/badge.svg?branch=main) |
+| 1.14.4 - 1.17.1 | 1.14.4 - 1.17.1 | 1.14.4 - 1.17.1 | 1.14.4 - 1.17.1 | 1.14.4 - 1.17.1 | 1.14.4 - 1.17.1 |
+| [WGFactions](https://github.com/APDevTeam/WGFactions) | [WGBlockFlags](https://github.com/TylerS1066/WGBlockFlags/) | [CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/) | [iFill](https://github.com/APDevTeam/iFill) | [Cargo](https://github.com/APDevTeam/APCargoMerchant) | [StructureBoxes](https://github.com/APDevTeam/StructureBoxes) |
+| ![WGFactions](https://github.com/APDevTeam/WGFactions/actions/workflows/maven.yml/badge.svg?branch=main) | ![WGBlockFlags](https://github.com/TylerS1066/WGBlockFlags/actions/workflows/maven.yml/badge.svg?branch=main) | ![CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/actions/workflows/maven.yml/badge.svg?branch=main) | ![iFill](https://github.com/APDevTeam/iFill/actions/workflows/maven.yml/badge.svg?branch=main) | ![Cargo](https://github.com/APDevTeam/APCargoMerchant/actions/workflows/maven.yml/badge.svg?branch=main) | ![StructureBoxes](https://github.com/APDevTeam/StructureBoxes/actions/workflows/maven.yml/badge.svg?branch=main) |
+| 1.14.4 - 1.17.1 | 1.14.4 - 1.17.1 | 1.14.4 - 1.17.1 | 1.14.4 - 1.17.1 | 1.14.4 - 1.17.1 | 1.14.4 - 1.17.1 |
 
 
 
 # Legacy Ecosystem
+
 ### Movecraft 7.x - 1.10.2 to 1.12.2 Ecosystem
 | [Movecraft](https://github.com/APDevTeam/Movecraft) |
 | :---: |
@@ -51,18 +43,13 @@
 | 1.10.2 - 1.16.5 | 1.10.2 - 1.16.5 | 1.10.2 - 1.16.5 | 1.10.2, 1.12.2 | 1.10.2 - 1.13.2 | 1.10.2 - 1.16.5 | 1.10.2 - 1.16.5 |
 
 
+
 ### Airship Pirates Plugins
-| [AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/tree/legacy) | [APAutoDye](https://github.com/APDevTeam/APAutoDye) | [APAutoNPC](https://github.com/APDevTeam/APAutoNPC/tree/legacy) | [APPerms](https://github.com/APDevTeam/APDonorPerms) |
-| :---: | :---: | :---: | :---: |
-| ![AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![APAuotDye](https://github.com/APDevTeam/APAutoDye/actions/workflows/maven.yml/badge.svg) | ![APAutoNPC](https://github.com/APDevTeam/APAutoNPC/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![APPerms](https://github.com/APDevTeam/APDonorPerms/actions/workflows/maven.yml/badge.svg?branch=legacy) |
-| 1.12.2 | 1.12.2 | 1.12.2 | 1.12.2 |
-
-| [Staff-Mode](https://github.com/APDevTeam/Staff-Mode/tree/legacy) | [Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat/tree/legacy) | [WGFactions](https://github.com/APDevTeam/WGFactions/tree/legacy) | [WGBlockFlags](https://github.com/TylerS1066/WGBlockFlags/tree/legacy) |
-| :---: | :---: | :---: | :---: |
-| ![Staff-Mode](https://github.com/APDevTeam/Staff-Mode/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![WGFactions](https://github.com/APDevTeam/WGFactions/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![WGBlockFlags](https://github.com/TylerS1066/WGBlockFlags/actions/workflows/maven.yml/badge.svg?branch=legacy) |
-| 1.12.2 | 1.12.2 | 1.12.2 | 1.12.2 |
-
-| [CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/) | [Deadbolt-Reloaded](https://github.com/TylerS1066/Deadbolt-Reloaded) |
-| :---: | :---: |
-| ![CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![Deadbolt-Reloaded](https://github.com/TylerS1066/Deadbolt-Reloaded/actions/workflows/maven.yml/badge.svg) |
-| 1.12.2 | 1.12.2 |
+|  |  |  |  |  |
+| :---: | :---: | :---: | :---: | :---: |
+| [AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/tree/legacy) | [APAutoDye](https://github.com/APDevTeam/APAutoDye) | [APAutoNPC](https://github.com/APDevTeam/APAutoNPC/tree/legacy) | [APPerms](https://github.com/APDevTeam/APDonorPerms) | [Staff-Mode](https://github.com/APDevTeam/Staff-Mode/tree/legacy) |
+| ![AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![APAuotDye](https://github.com/APDevTeam/APAutoDye/actions/workflows/maven.yml/badge.svg) | ![APAutoNPC](https://github.com/APDevTeam/APAutoNPC/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![APPerms](https://github.com/APDevTeam/APDonorPerms/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![Staff-Mode](https://github.com/APDevTeam/Staff-Mode/actions/workflows/maven.yml/badge.svg?branch=legacy) |
+| 1.12.2 | 1.12.2 | 1.12.2 | 1.12.2 | 1.12.2 |
+| [Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat/tree/legacy) | [WGFactions](https://github.com/APDevTeam/WGFactions/tree/legacy) | [WGBlockFlags](https://github.com/TylerS1066/WGBlockFlags/tree/legacy) | [CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/) | [Deadbolt-Reloaded](https://github.com/TylerS1066/Deadbolt-Reloaded) |
+| ![Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![WGFactions](https://github.com/APDevTeam/WGFactions/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![WGBlockFlags](https://github.com/TylerS1066/WGBlockFlags/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![CustomWhitelist](https://github.com/APDevTeam/CustomWhitelist/actions/workflows/maven.yml/badge.svg?branch=legacy) | ![Deadbolt-Reloaded](https://github.com/TylerS1066/Deadbolt-Reloaded/actions/workflows/maven.yml/badge.svg) |
+| 1.12.2 | 1.12.2 | 1.12.2 | 1.12.2 | 1.12.2 |
