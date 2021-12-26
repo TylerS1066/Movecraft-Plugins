@@ -4,7 +4,7 @@
 | [Movecraft](https://github.com/APDevTeam/Movecraft) |
 | :---: |
 | ![Movecraft](https://github.com/APDevTeam/Movecraft/actions/workflows/maven.yml/badge.svg?branch=1.13%2B) |
-| 1.14.4 - 1.18 |
+| 1.14.4 - 1.18.1 |
 
 ### Addons
 | [Movecraft-Combat](https://github.com/TylerS1066/Movecraft-Combat) | [Movecraft-Warfare](https://github.com/APDevTeam/Movecraft-Warfare) | [Movecraft-Repair](https://github.com/APDevTeam/Movecraft-Repair) | [Movecraft-WorldGuard](https://github.com/APDevTeam/Movecraft-WorldGuard) | [Movecraft-Towny](https://github.com/TylerS1066/Movecraft-Towny/) | [Movecraft-Cannons](https://github.com/TylerS1066/Movecraft-Cannons) | [Beaming](https://github.com/APDevTeam/Beaming) | [Movecraft-CoreProtect](https://github.com/TylerS1066/Movecraft-CoreProtect)
