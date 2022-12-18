@@ -15,7 +15,7 @@
 | [Movecraft-Towny](https://github.com/APDevTeam/Movecraft-Towny/) | [Movecraft-Cannons](https://github.com/APDevTeam/Movecraft-Cannons) | [Beaming](https://github.com/APDevTeam/Beaming) | [Movecraft-CoreProtect](https://github.com/APDevTeam/Movecraft-CoreProtect) |
 | :---: | :---: | :---: | :---: |
 | ![Towny](https://github.com/APDevTeam/Movecraft-Towny/actions/workflows/maven.yml/badge.svg?branch=main) | ![Cannons](https://github.com/APDevTeam/Movecraft-Cannons/actions/workflows/maven.yml/badge.svg?branch=main) | ![Beaming](https://github.com/APDevTeam/Beaming/actions/workflows/maven.yml/badge.svg?branch=main) | ![CoreProtect](https://github.com/APDevTeam/Movecraft-CoreProtect/actions/workflows/maven.yml/badge.svg?branch=main) |
-| 1.14.4+ | 1.14.4+ | 1.14.4+ | 1.14.4+ |
+| 1.14.4-1.17.1 | 1.14.4+ | 1.14.4+ | 1.14.4+ |
 
 ### Airship Pirates Plugins
 |  |  |  |  |  |  |
