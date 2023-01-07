@@ -3,7 +3,7 @@
 ### Movecraft 8.x - 1.14+ ecosystem
 | [Movecraft](https://github.com/APDevTeam/Movecraft) |
 | :---: |
-| ![Movecraft](https://github.com/APDevTeam/Movecraft/actions/workflows/maven.yml/badge.svg) |
+| ![Movecraft](https://github.com/APDevTeam/Movecraft/actions/workflows/maven.yml/badge.svg?branch=main) |
 | 1.14.4 - 1.19.3 |
 
 ### Addons
