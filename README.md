@@ -3,8 +3,8 @@
 ### Movecraft 8.x - 1.14+ ecosystem
 | [Movecraft](https://github.com/APDevTeam/Movecraft) |
 | :---: |
-| ![Movecraft](https://github.com/APDevTeam/Movecraft/actions/workflows/maven.yml/badge.svg?branch=1.13%2B) |
-| 1.14.4 - 1.19.2 |
+| ![Movecraft](https://github.com/APDevTeam/Movecraft/actions/workflows/maven.yml/badge.svg) |
+| 1.14.4 - 1.19.3 |
 
 ### Addons
 | [Movecraft-Combat](https://github.com/APDevTeam/Movecraft-Combat) | [Movecraft-Warfare](https://github.com/APDevTeam/Movecraft-Warfare) | [Movecraft-Repair](https://github.com/APDevTeam/Movecraft-Repair) | [Movecraft-WorldGuard](https://github.com/APDevTeam/Movecraft-WorldGuard) |
