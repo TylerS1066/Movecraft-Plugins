@@ -18,7 +18,7 @@
 | :---: | :---: | :---: | :---: |
 | ![Towny](https://github.com/APDevTeam/Movecraft-Towny/actions/workflows/maven.yml/badge.svg?branch=main) | ![Cannons](https://github.com/APDevTeam/Movecraft-Cannons/actions/workflows/maven.yml/badge.svg?branch=main) | ![Beaming](https://github.com/APDevTeam/Beaming/actions/workflows/maven.yml/badge.svg?branch=main) | ![CoreProtect](https://github.com/APDevTeam/Movecraft-CoreProtect/actions/workflows/maven.yml/badge.svg?branch=main) |
 | [![Codebeat](https://codebeat.co/badges/acbb6937-dad9-440a-84cc-6c5f1bc73930)](https://codebeat.co/projects/github-com-apdevteam-movecraft-towny-main) | [![Codebeat](https://codebeat.co/badges/cb4d4154-2163-4685-819f-2635f8784923)](https://codebeat.co/projects/github-com-apdevteam-movecraft-cannons-main) | [![Codebeat](https://codebeat.co/badges/d550e8aa-8b68-4c59-8d36-4cfc19ffdb6f)](https://codebeat.co/projects/github-com-apdevteam-beaming-main) | [![Codebeat](https://codebeat.co/badges/87bbc484-2fe8-48fd-89d9-fd22977ccc6a)](https://codebeat.co/projects/github-com-apdevteam-movecraft-coreprotect-main) |
-| 1.14.4-1.17.1 | 1.14.4+ | 1.14.4+ | 1.14.4+ |
+| 1.14.4+ | 1.14.4+ | 1.14.4+ | 1.14.4+ |
 
 ### Airship Pirates Plugins
 |  |  |  |  |  |  |
