@@ -5,7 +5,7 @@
 | :---: |
 | ![Movecraft](https://github.com/APDevTeam/Movecraft/actions/workflows/maven.yml/badge.svg?branch=main) |
 | [![Codebeat](https://codebeat.co/badges/96b0350f-f9c8-4eff-93b6-4d45ecf39918)](https://codebeat.co/projects/github-com-apdevteam-movecraft-main) |
-| 1.16.5 - 1.20.6 |
+| 1.18.2 - 1.20.6 |
 
 ### Addons
 | [Movecraft-Combat](https://github.com/APDevTeam/Movecraft-Combat) | [Movecraft-Warfare](https://github.com/APDevTeam/Movecraft-Warfare) | [Movecraft-Repair](https://github.com/APDevTeam/Movecraft-Repair) | [Movecraft-WorldGuard](https://github.com/APDevTeam/Movecraft-WorldGuard) |
