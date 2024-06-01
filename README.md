@@ -21,8 +21,8 @@
 | 1.14.4+ | 1.14.4+ | 1.14.4+ | 1.14.4+ |
 
 ### Airship Pirates Plugins
-|  |  |  |  |  |  |
-| :---: | :---: | :---: | :---: | :---: | :---: |
+|  |  |  |  |  |
+| :---: | :---: | :---: | :---: | :---: |
 | [AP-Turrets](https://github.com/APDevTeam/Ap-Turrets) | [APAutoNPC](https://github.com/APDevTeam/APAutoNPC) | [Deadbolt-Reloaded](https://github.com/TylerS1066/Deadbolt-Reloaded) | [Staff-Mode](https://github.com/APDevTeam/Staff-Mode) | [Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat) |
 | ![AP-Turrets](https://github.com/APDevTeam/Ap-Turrets/actions/workflows/maven.yml/badge.svg?branch=main) | ![APAutoNPC](https://github.com/APDevTeam/APAutoNPC/actions/workflows/maven.yml/badge.svg?branch=main) | ![Deadbolt-Reloaded](https://github.com/TylerS1066/Deadbolt-Reloaded/actions/workflows/maven.yml/badge.svg?branch=main) | ![Staff-Mode](https://github.com/APDevTeam/Staff-Mode/actions/workflows/maven.yml/badge.svg?branch=main) | ![Ultimate-FactionsChat](https://github.com/TylerS1066/Ultimate-FactionsChat/actions/workflows/maven.yml/badge.svg?branch=main) |
 | 1.14.4+ | 1.14.4+ | 1.14.4+ | 1.14.4+ | 1.14.4+ |
