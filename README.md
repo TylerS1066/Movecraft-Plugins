@@ -8,12 +8,13 @@
 | 1.18.2 - 1.20.6 |
 
 ### Addons
+|  |  |  |  |
+| :---: | :---: | :---: | :---: |
 | [Movecraft-Combat](https://github.com/APDevTeam/Movecraft-Combat) | [Movecraft-Warfare](https://github.com/APDevTeam/Movecraft-Warfare) | [Movecraft-Repair](https://github.com/APDevTeam/Movecraft-Repair) | [Movecraft-WorldGuard](https://github.com/APDevTeam/Movecraft-WorldGuard) |
 | :---: | :---: | :---: | :---: |
 | ![Combat](https://github.com/APDevTeam/Movecraft-Combat/actions/workflows/maven.yml/badge.svg?branch=main) | ![Warfare](https://github.com/APDevTeam/Movecraft-Warfare/actions/workflows/maven.yml/badge.svg?branch=main) | ![Repair](https://github.com/APDevTeam/Movecraft-Repair/actions/workflows/maven.yml/badge.svg?branch=main) | ![WorldGuard](https://github.com/APDevTeam/Movecraft-WorldGuard/actions/workflows/maven.yml/badge.svg?branch=main) |
 | [![Codebeat](https://codebeat.co/badges/8ea3227d-0125-4cd5-896f-834f66011791)](https://codebeat.co/projects/github-com-apdevteam-movecraft-combat-main) | [![Codebeat](https://codebeat.co/badges/e2223b85-5404-483d-a3b7-e02f4ea0064d)](https://codebeat.co/projects/github-com-apdevteam-movecraft-warfare-main) | [![Codebeat](https://codebeat.co/badges/ff25e74b-fac0-4b21-8dc3-adf7121a6dca)](https://codebeat.co/projects/github-com-apdevteam-movecraft-repair-main) | [![Codebeat](https://codebeat.co/badges/995849d2-3017-4a93-a9bb-2dcf00c661bd)](https://codebeat.co/projects/github-com-apdevteam-movecraft-worldguard-main) |
 | 1.14.4+ | 1.14.4+ | 1.14.4+ |  1.14.4+ |
-
 | [Movecraft-Towny](https://github.com/APDevTeam/Movecraft-Towny/) | [Movecraft-Cannons](https://github.com/APDevTeam/Movecraft-Cannons) | [Beaming](https://github.com/APDevTeam/Beaming) | [Movecraft-CoreProtect](https://github.com/APDevTeam/Movecraft-CoreProtect) |
 | :---: | :---: | :---: | :---: |
 | ![Towny](https://github.com/APDevTeam/Movecraft-Towny/actions/workflows/maven.yml/badge.svg?branch=main) | ![Cannons](https://github.com/APDevTeam/Movecraft-Cannons/actions/workflows/maven.yml/badge.svg?branch=main) | ![Beaming](https://github.com/APDevTeam/Beaming/actions/workflows/maven.yml/badge.svg?branch=main) | ![CoreProtect](https://github.com/APDevTeam/Movecraft-CoreProtect/actions/workflows/maven.yml/badge.svg?branch=main) |
