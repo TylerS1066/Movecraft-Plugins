@@ -3,7 +3,7 @@
 ### Movecraft
 | [Movecraft](https://github.com/APDevTeam/Movecraft) |
 | :---: |
-| ![Movecraft](https://github.com/APDevTeam/Movecraft/actions/workflows/maven.yml/badge.svg?branch=main) |
+| ![Movecraft](https://github.com/APDevTeam/Movecraft/actions/workflows/gradle.yml/badge.svg?branch=main) |
 | [![Codebeat](https://codebeat.co/badges/96b0350f-f9c8-4eff-93b6-4d45ecf39918)](https://codebeat.co/projects/github-com-apdevteam-movecraft-main) |
 | 1.18.2, 1.20.6 & 1.21 |
 
