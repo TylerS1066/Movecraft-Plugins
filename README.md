@@ -1,8 +1,13 @@
 # Core
-| [Movecraft](https://github.com/APDevTeam/Movecraft) | [Movecraft-Combat](https://github.com/APDevTeam/Movecraft-Combat) | [Movecraft-WorldGuard](https://github.com/APDevTeam/Movecraft-WorldGuard) | [Movecraft-Repair](https://github.com/APDevTeam/Movecraft-Repair) |
-| :---: | :---: | :---: | :---: |
-| ![Movecraft](https://github.com/APDevTeam/Movecraft/actions/workflows/gradle.yml/badge.svg?branch=main) | ![Combat](https://github.com/APDevTeam/Movecraft-Combat/actions/workflows/gradle.yml/badge.svg?branch=main) | ![WorldGuard](https://github.com/APDevTeam/Movecraft-WorldGuard/actions/workflows/gradle.yml/badge.svg?branch=main) | ![Repair](https://github.com/APDevTeam/Movecraft-Repair/actions/workflows/gradle.yml/badge.svg?branch=main) |
-| [![Codebeat](https://codebeat.co/badges/96b0350f-f9c8-4eff-93b6-4d45ecf39918)](https://codebeat.co/projects/github-com-apdevteam-movecraft-main) | [![Codebeat](https://codebeat.co/badges/8ea3227d-0125-4cd5-896f-834f66011791)](https://codebeat.co/projects/github-com-apdevteam-movecraft-combat-main) | [![Codebeat](https://codebeat.co/badges/995849d2-3017-4a93-a9bb-2dcf00c661bd)](https://codebeat.co/projects/github-com-apdevteam-movecraft-worldguard-main) | [![Codebeat](https://codebeat.co/badges/ff25e74b-fac0-4b21-8dc3-adf7121a6dca)](https://codebeat.co/projects/github-com-apdevteam-movecraft-repair-main) |
+| [Movecraft](https://github.com/APDevTeam/Movecraft) |
+| :---: 
+| ![Movecraft](https://github.com/APDevTeam/Movecraft/actions/workflows/gradle.yml/badge.svg?branch=main) |
+| [![Codebeat](https://codebeat.co/badges/96b0350f-f9c8-4eff-93b6-4d45ecf39918)](https://codebeat.co/projects/github-com-apdevteam-movecraft-main) |
+
+| [Movecraft-Combat](https://github.com/APDevTeam/Movecraft-Combat) | [Movecraft-WorldGuard](https://github.com/APDevTeam/Movecraft-WorldGuard) | [Movecraft-Repair](https://github.com/APDevTeam/Movecraft-Repair) |
+| :---: | :---: | :---: |
+| ![Combat](https://github.com/APDevTeam/Movecraft-Combat/actions/workflows/gradle.yml/badge.svg?branch=main) | ![WorldGuard](https://github.com/APDevTeam/Movecraft-WorldGuard/actions/workflows/gradle.yml/badge.svg?branch=main) | ![Repair](https://github.com/APDevTeam/Movecraft-Repair/actions/workflows/gradle.yml/badge.svg?branch=main) |
+| [![Codebeat](https://codebeat.co/badges/8ea3227d-0125-4cd5-896f-834f66011791)](https://codebeat.co/projects/github-com-apdevteam-movecraft-combat-main) | [![Codebeat](https://codebeat.co/badges/995849d2-3017-4a93-a9bb-2dcf00c661bd)](https://codebeat.co/projects/github-com-apdevteam-movecraft-worldguard-main) | [![Codebeat](https://codebeat.co/badges/ff25e74b-fac0-4b21-8dc3-adf7121a6dca)](https://codebeat.co/projects/github-com-apdevteam-movecraft-repair-main) |
 
 | [Movecraft-Warfare](https://github.com/APDevTeam/Movecraft-Warfare) | [Movecraft-CoreProtect](https://github.com/APDevTeam/Movecraft-CoreProtect) | [Beaming](https://github.com/APDevTeam/Beaming) |
 | :---: | :---: | :---: |
